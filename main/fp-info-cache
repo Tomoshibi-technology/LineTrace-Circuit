@@ -1,4 +1,4 @@
-23112211368367751
+23115679971073501
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -12,6 +12,13 @@ Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file
 audio belton reverb
 0
 7
+7
+BNO055
+BNO055
+
+
+0
+8
 7
 Battery
 BatteryClip_Keystone_54_D16-19mm
@@ -92911,6 +92918,13 @@ DCDC_VXO78-500
 3
 3
 Tomoshibi_Library
+DPAK+ 2-7M1A
+
+
+0
+3
+3
+Tomoshibi_Library
 Diode_DO-221BC
 SMPA (DO-221BC)
 Schottky Diode
@@ -92940,8 +92954,8 @@ DRV8323HRTAR
 41
 Tomoshibi_Library
 Fuseholder_Keystone_3557
-fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306
-car blade fuse mini
+fuse holder
+
 0
 4
 2
@@ -92966,13 +92980,6 @@ Interface_USB_CH340K
 0
 11
 11
-Tomoshibi_Library
-L-31ROPT1C
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
-0
-2
-2
 Tomoshibi_Library
 MCU_ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
@@ -93057,6 +93064,13 @@ switch single-pole double-throw SPDT würth wurth
 0
 3
 3
+Tomoshibi_Library
+SW_Push_6.1x6.1mm
+
+
+0
+4
+2
 Tomoshibi_Library
 SW_Rocker_DS-850K-S-ON
 

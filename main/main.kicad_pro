@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "main.kicad_pro",
+    "filename": "MAIN.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -456,7 +456,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../../../Users/tomoh/Documents/",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -467,7 +467,7 @@
   },
   "sheets": [
     [
-      "d4d1d468-3601-4c48-9a97-a1fb8c353d1a",
+      "ecf1504d-7b9a-404b-bd65-805b54c9eb1d",
       ""
     ]
   ],
